@@ -30,7 +30,7 @@ public class Main {
         String dataLoc = JOptionPane.showInputDialog("Data Locação: ");
         String dataEnt = JOptionPane.showInputDialog("Data Entrega: ");
         JOptionPane.showMessageDialog(null, "Aluguel realizado com sucesso! ");
-
+        int a = 0;
 
 
     }
